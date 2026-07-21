@@ -1,0 +1,5 @@
+# Local Codex/agent workspace data
+.agents/
+
+# Local publishing notes (not part of the public profile)
+PROFILE_SETUP.md
