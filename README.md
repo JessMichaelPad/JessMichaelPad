@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-hero.png" alt="Embedded systems, AI, robotics, and smart inventory technology" width="100%" />
+  <img src="assets/profile-header.svg" alt="Jess Michael Padogdog — Robotics, Edge AI, and Embedded Systems" width="100%" />
 </p>
 
 <p align="center">

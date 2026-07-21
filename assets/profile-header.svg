@@ -1,0 +1,65 @@
+<svg width="1600" height="560" viewBox="0 0 1600 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Jess Michael Padogdog — Robotics, Edge AI, and Embedded Systems</title>
+  <desc id="desc">An original embedded-systems console style portfolio header.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080E17"/>
+      <stop offset=".56" stop-color="#0B1824"/>
+      <stop offset="1" stop-color="#10152C"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="980" y1="100" x2="1512" y2="444" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#13283A" stop-opacity=".92"/>
+      <stop offset="1" stop-color="#101B35" stop-opacity=".48"/>
+    </linearGradient>
+    <linearGradient id="line" x1="100" y1="0" x2="1430" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#45E4CF"/>
+      <stop offset="1" stop-color="#759BFF"/>
+    </linearGradient>
+    <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="560" rx="28" fill="url(#bg)"/>
+  <path d="M0 475H1600" stroke="#314155" stroke-opacity=".55"/>
+  <path d="M0 95H1600" stroke="#314155" stroke-opacity=".3"/>
+  <path d="M1120 0V560M1280 0V560M1440 0V560" stroke="#314155" stroke-opacity=".25"/>
+  <path d="M960 0V560" stroke="#314155" stroke-opacity=".18"/>
+
+  <circle cx="1288" cy="205" r="132" fill="#1F8DAD" fill-opacity=".15" filter="url(#soft)"/>
+  <circle cx="1430" cy="400" r="126" fill="#4157E2" fill-opacity=".16" filter="url(#soft)"/>
+
+  <path d="M85 105H128" stroke="#45E4CF" stroke-width="4"/>
+  <path d="M143 105H245" stroke="#7A8CA8" stroke-width="2"/>
+  <text x="85" y="73" fill="#8FB1C4" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="3">JMP // SYSTEMS PORTFOLIO</text>
+
+  <text x="82" y="198" fill="#F4F8FC" font-family="Arial, Helvetica, sans-serif" font-size="63" font-weight="800" letter-spacing="-1">JESS MICHAEL</text>
+  <text x="84" y="238" fill="#45E4CF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="1.2">ROBOTICS  /  EDGE AI  /  EMBEDDED SYSTEMS</text>
+  <text x="84" y="302" fill="#C6D4E1" font-family="Arial, Helvetica, sans-serif" font-size="23">I build systems that sense, think, and act —</text>
+  <text x="84" y="336" fill="#C6D4E1" font-family="Arial, Helvetica, sans-serif" font-size="23">from microcontrollers and vision models to useful interfaces.</text>
+
+  <rect x="84" y="390" width="538" height="58" rx="8" fill="#0D1B27" stroke="#314D60"/>
+  <circle cx="114" cy="419" r="9" fill="#45E4CF"/>
+  <text x="140" y="425" fill="#DCE9F2" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">CURRENTLY EXPLORING</text>
+  <text x="355" y="425" fill="#7D9FBA" font-family="Arial, Helvetica, sans-serif" font-size="16">ESP32 • Computer Vision • IoT</text>
+
+  <rect x="1010" y="94" width="455" height="355" rx="16" fill="url(#panel)" stroke="#49627A" stroke-opacity=".7"/>
+  <text x="1045" y="142" fill="#A9C1D1" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">SYSTEM MAP</text>
+  <path d="M1060 204H1165L1212 249H1328L1382 194H1420" stroke="url(#line)" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M1060 335H1152L1202 287H1305L1358 350H1420" stroke="#759BFF" stroke-width="3" stroke-linejoin="round" opacity=".8"/>
+  <path d="M1212 249V287M1328 249V300M1152 335V376" stroke="#45E4CF" stroke-width="2" stroke-dasharray="6 8" opacity=".75"/>
+  <rect x="1035" y="180" width="50" height="50" rx="10" fill="#132B38" stroke="#45E4CF"/>
+  <circle cx="1060" cy="205" r="11" stroke="#45E4CF" stroke-width="3"/>
+  <circle cx="1212" cy="249" r="13" fill="#45E4CF"/>
+  <circle cx="1328" cy="249" r="13" fill="#759BFF"/>
+  <rect x="1382" y="169" width="76" height="52" rx="10" fill="#182445" stroke="#759BFF"/>
+  <path d="M1400 195H1440M1420 177V213" stroke="#A9C6FF" stroke-width="3"/>
+  <rect x="1118" y="354" width="68" height="46" rx="9" fill="#132B38" stroke="#45E4CF"/>
+  <path d="M1136 376H1168M1152 362V390" stroke="#45E4CF" stroke-width="3"/>
+  <text x="1036" y="425" fill="#6E90A8" font-family="Arial, Helvetica, sans-serif" font-size="13">SENSORS</text>
+  <text x="1180" y="425" fill="#6E90A8" font-family="Arial, Helvetica, sans-serif" font-size="13">INTELLIGENCE</text>
+  <text x="1360" y="425" fill="#6E90A8" font-family="Arial, Helvetica, sans-serif" font-size="13">ACTION</text>
+
+  <path d="M85 494H1515" stroke="url(#line)" stroke-width="3"/>
+  <text x="85" y="528" fill="#6E90A8" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2">HARDWARE × SOFTWARE × INTELLIGENCE</text>
+</svg>
