@@ -1,15 +1,13 @@
 <p align="center">
-  <img src="assets/profile-hero.png" alt="Embedded systems, AI, robotics, and smart inventory technology" width="100%" />
-</p>
-
-<h1 align="center">Hi, I'm Jess Michael Padogdog 👋</h1>
-
-<p align="center">
-  <strong>Robotics · Edge AI · Embedded Systems · Full-Stack Development</strong>
+  <img src="assets/profile-header.svg" alt="Jess Michael Padogdog — Robotics, Edge AI, and Embedded Systems" width="100%" />
 </p>
 
 <p align="center">
-  I build intelligent systems that connect software, sensors, and the physical world.
+  <strong>Robotics Developer · Edge AI Builder · Embedded Systems</strong>
+</p>
+
+<p align="center">
+  I build systems that are meant to sense, think, and act.
 </p>
 
 <p align="center">
