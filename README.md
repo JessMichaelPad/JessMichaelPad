@@ -25,27 +25,23 @@
 
 ### Featured work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/JessMichaelPad/Smart-Shelf-System">Smart Shelf System</a></h3>
-      <p>An end-to-end inventory monitoring prototype connecting ESP32 shelf nodes to a Node.js gateway, MongoDB API, and React dashboard.</p>
-      <p><code>ESP32</code> <code>React</code> <code>Node.js</code> <code>MongoDB</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗂️ <a href="https://github.com/JessMichaelPad/AI-Powered-File-Manager">AI-Powered File Manager</a></h3>
-      <p>A privacy-first organizer that uses local language and vision models to understand, rename, and categorize documents and images.</p>
-      <p><code>Python</code> <code>Local AI</code> <code>OCR</code> <code>VLM</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🦾 <a href="https://github.com/JessMichaelPad/MSU-IIT_Robotics_and_AI_Projects">Robotics & AI Projects</a></h3>
-      <p>Interactive A* pathfinding and robot-kinematics simulations, plus an autonomous interception robot built with YOLOv8, Raspberry Pi 5, ESP32, and Mecanum drive.</p>
-      <p><code>Computer Vision</code> <code>YOLOv8</code> <code>Python</code> <code>C++</code> <code>JavaScript</code></p>
-    </td>
-  </tr>
-</table>
+#### 📦 [Smart Shelf System](https://github.com/JessMichaelPad/Smart-Shelf-System)
+
+> IoT inventory monitoring that connects ESP32 shelf nodes to a Node.js gateway, MongoDB API, and React dashboard.
+
+`ESP32` · `React` · `Node.js` · `MongoDB`
+
+#### 🗂️ [AI-Powered File Manager](https://github.com/JessMichaelPad/AI-Powered-File-Manager)
+
+> A privacy-first organizer using local language and vision models to understand, rename, and categorize files.
+
+`Python` · `Local AI` · `OCR` · `Vision Models`
+
+#### 🦾 [Robotics & AI Projects](https://github.com/JessMichaelPad/MSU-IIT_Robotics_and_AI_Projects)
+
+> Interactive pathfinding and robot-kinematics simulations, plus an autonomous interception robot built with YOLOv8, Raspberry Pi 5, ESP32, and Mecanum drive.
+
+`Computer Vision` · `YOLOv8` · `Python` · `C++` · `JavaScript`
 
 ### Toolbox
 
